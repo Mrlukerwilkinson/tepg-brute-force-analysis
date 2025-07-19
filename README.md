@@ -132,13 +132,6 @@ These are available in the `IOCs/` folder for reference.
 
 ---
 
-👉 If you're running exposed services — especially RDP — consider this your cautionary tale.
-Harden your perimeter, monitor logs, and never assume you're too small to be a target.
-
-
----
-
-
 ## ⚠️ Disclaimer
 
 This project is based on log data collected from a Windows system that was exposed to the internet and monitored for research purposes.  
@@ -148,6 +141,9 @@ The goal of this project is to raise awareness about the risks of exposing servi
 All analysis was performed passively using standard event logs and geolocation tools.
 
 This repository is for educational use only.
+
+👉 If you're running exposed services — especially RDP — consider this your cautionary tale.
+Harden your perimeter, monitor logs, and never assume you're too small to be a target.
 
 ---
 
