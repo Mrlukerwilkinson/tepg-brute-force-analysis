@@ -132,13 +132,6 @@ These are available in the `IOCs/` folder for reference.
 
 ---
 
-👉 If you're running exposed services — especially RDP — consider this your cautionary tale.
-Harden your perimeter, monitor logs, and never assume you're too small to be a target.
-
-
----
-
-
 ## ⚠️ Disclaimer
 
 This project is based on log data collected from a Windows system that was exposed to the internet and monitored for research purposes.  
