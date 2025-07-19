@@ -5,7 +5,7 @@ import pygeoip
 from collections import Counter
 
 # ------------------- CONFIG -------------------
-INPUT_FILE = "4625_normalised.csv"
+INPUT_FILE = "<your-data-source>.csv"# Adjust path as needed
 GEO_DB_PATH = "GeoLiteCity.dat"
 
 # ------------------- Setup --------------------

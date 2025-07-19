@@ -11,7 +11,7 @@ import ipaddress
 import re
 
 # -------------------- CONFIG --------------------
-INPUT_FILE = "4625_normalised.csv"# Adjust path as needed
+INPUT_FILE = "<your-data-source>.csv"# Adjust path as needed
 GEOIP_DB = 'GeoLiteCity.dat'
 OUTPUT_MAP = 'visualizations/attack_map_final.html'
 OUTPUT_HEATMAP = 'visualizations/time_heatmap.png'
