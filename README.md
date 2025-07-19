@@ -64,8 +64,10 @@ Among the **geolocated** attempts, the **top 10 countries** accounted for **93.0
 *Login attempts by hour of day and day of week — darker = more attacks*
 
 - Attacks occurred **around the clock**, with no real “safe” window.
-- The **most active hours** were between **10:00 and 18:00 UTC**, suggesting automation or attacker infrastructure aligned to European/Central Asian time zones.
-- Activity persisted through weekends, reinforcing that most attacks are automated and persistent.
+- The **most active hours** were between **9:00 PM and 5:00 AM AEDT**, peaking late at night and into the early morning.
+- Activity persisted through weekends, reinforcing that most attacks are **automated, continuous, and opportunistic** — not tied to a specific business schedule or region.
+
+> ⏰ *All times in this heatmap are shown in **AEDT (Australian Eastern Daylight Time)**.*
 
 ---
 
